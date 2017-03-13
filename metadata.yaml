@@ -1,7 +1,10 @@
 _repo: The-Cloister-and-the-Hearth_1366
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: "Subtitle: or, Maid, wife and widow: a matter-of-fact romance\r\
   \nSubtitle: a tale of the middle ages"
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Reade, Charles
@@ -16,6 +19,8 @@ description: "The Cloister and the Hearth (1861) is an historical novel by the E
   \ several European countries. The Cloister and the Hearth often describes the events,\
   \ people and their practices in minute detail. Its main theme is the struggle between\
   \ man's obligations to family and to Church.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1366#The-Cloister-and-the-Hearth
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-02-15'
 gutenberg_type: Text
